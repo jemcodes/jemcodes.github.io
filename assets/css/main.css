@@ -1,5 +1,7 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Poppins:wght@300&display=swap');
+/* font-family: 'Lora', serif;
+font-family: 'Poppins', sans-serif; */
 
 /*
 	Spectral by HTML5 UP
@@ -169,6 +171,7 @@ input, select, textarea {
 		line-height: 1em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
+		font-family: 'Poppins', sans-serif;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
