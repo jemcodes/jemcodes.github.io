@@ -165,7 +165,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #631863;
+		color: #FFFFFF;
 		font-weight: 800;
 		letter-spacing: 0.225em;
 		line-height: 1em;
@@ -2829,7 +2829,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #ffffff;
+				color: #631863;
 			}
 
 			.wrapper.style1 hr {
