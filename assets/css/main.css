@@ -2081,15 +2081,15 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #BF6991
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color: #2E86AB;
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color: #BF6991;
 		}
 
 /* Image */
@@ -2829,7 +2829,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #631863;
+				color: #1F1F1F;
 			}
 
 			.wrapper.style1 hr {
@@ -2853,7 +2853,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c8ece9;
+				color: #5C5C5C;
 			}
 
 			.wrapper.style1 label {
