@@ -1,3 +1,11 @@
+## Menu
+
+[Meet The Dev](#Meet-The-Dev)
+
+[Credits](#Credits)
+
+---
+
 ## Meet The Dev
 
 Hiya, I'm jane! 👋
