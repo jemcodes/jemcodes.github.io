@@ -1,3 +1,6 @@
+# Welcome to my portfolio 👩‍💻
+![Opening Screen](images/openingscreen.png)
+
 ## Menu
 
 [Meet The Dev](#Meet-The-Dev)
