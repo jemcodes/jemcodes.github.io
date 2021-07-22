@@ -1,5 +1,5 @@
 # Welcome! 👩‍💻
-![Opening Screen](images/openingscreen.png)
+![Opening Screen](iimages/jemcodes.gif)
 
 ## Menu
 
