@@ -23,8 +23,8 @@ Programming brings together my passions for building, creating, and problem-solv
 
 <div align="center">
 
-|  |  |  |
-| --- | --- | --- |
+|  |  |
+| --- | --- |
 |![jemcodes stats](https://github-readme-stats.vercel.app/api?username=jemcodes&count_private=true&show_icons=true&title_color=08e8de&icon_color=D34BD3&text_color=FFFFFF&border_color=191919&bg_color=141414) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jemcodes&theme=black-ice&hide_border=true&fire=D34BD3&ring=942494)
 
 <div align="center">
