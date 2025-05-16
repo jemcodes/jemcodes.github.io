@@ -15,7 +15,9 @@
 
 Hiya, I'm jane! 👋
 
-Programming brings together my passions for building, creating, and problem-solving. Before coming to the coding world, I worked several lifetimes' worth of creative and analytical careers, from founding and managing companies to voiceover work to digging deep into disability law - and almost everything else in between. As a multipotentialite, I'm thrilled to see where this programming journey takes me!
+**I'm a creative technologist and systems-minded storyteller who builds thoughtful tools, scalable workflows, and human-centered experiences.**
+
+My work sits at the intersection of code, communication, and culture—with a preference for environments that value clarity, autonomy, and people over performative hustle. I care about making tech more inclusive, more efficient, and a lot less soul-sucking.
 
 ## <div align="left"> Find me online: [Portfolio](http://www.jemcodes.com/) • [Resume](http://resume.jemcodes.com/) •  [Linkedin](https://www.linkedin.com/in/jemcodes/)
 
